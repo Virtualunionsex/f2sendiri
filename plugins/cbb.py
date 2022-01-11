@@ -1,6 +1,6 @@
 # (©)Codexbotz
 # Recode by @mrismanaziz
-# Recide by Zaen-ubot
+# Recide by @Mafia_Tobatz
 # t.me/SharingUserbot & t.me/Lunatic0de
 
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
