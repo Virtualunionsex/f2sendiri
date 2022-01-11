@@ -12,6 +12,8 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 - Pesan sambutan & Forcesub yang dapat dicustom.
 - Lebih dari satu Posting dalam Satu Link (batch).
 - Dapat di-deploy di heroku secara langsung.
+<img src="https://telegra.ph/file/a835378480496ad4a5ae5.jpg">
+
 
 ### Setup
 
