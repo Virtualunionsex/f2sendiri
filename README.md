@@ -5,8 +5,6 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@SharingUserbot](https://www.telegram.dog/SharingUserbot)**
-
 ### Features
 - Sepenuhnya dapat dicustom.
 - Pesan sambutan & Forcesub yang dapat dicustom.
@@ -35,7 +33,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 #### Deploy in your VPS
 ````bash
 git clone https://github.com/Zaen-ubot/File-Sharing
-cd File-Sharing-Man
+cd File-Sharing
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
@@ -113,5 +111,4 @@ published by the Free Software Foundation, either version 3 of the License, or
 
 ##
 
-   **Berikan Bintang Repo ini jika Anda menyukainya Kontol ⭐⭐⭐⭐⭐**
-
+   **Kalo deploy kasih bintang dulu ngentod**
