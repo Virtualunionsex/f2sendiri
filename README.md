@@ -100,16 +100,4 @@ Laporkan Bug, Berikan Permintaan Fitur Di sana..
 - Thanks To [CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
 - Our Support Group Members
 
-### Licence
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
-
-[FILE-SHARING-BOT](https://github.com/mrismanaziz/File-Sharing-Man/) is Free Software: You can use, study share and improve it at your
-[Recode By Zaen](https://github.com/Zaen-ubot) is Free Software: You can use, study share and improve it at your
-will. Specifically you can redistribute and/or modify it under the terms of the
-[GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
-published by the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version. 
-
-##
-
    **Kalo deploy kasih bintang dulu ngentod**
