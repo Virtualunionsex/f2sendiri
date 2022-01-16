@@ -1,8 +1,5 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
-# Recide by @Mafia_Tobatz
-# t.me/SharingUserbot & t.me/Lunatic0de
-
+# Recide by Zaen @Mafia_Tobatz
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
 
 from bot import Bot
