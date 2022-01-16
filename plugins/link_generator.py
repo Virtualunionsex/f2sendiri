@@ -1,7 +1,5 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
 # Recode By @Mafia_Tobatz
-# t.me/SharingUserbot & t.me/Lunatic0de
 
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
