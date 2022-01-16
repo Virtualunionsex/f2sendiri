@@ -17,6 +17,10 @@ from config import ADMINS, FORCE_SUB_CHANNEL, FORCE_SUB_GROUP
 async def is_subscribed(filter, client, update):
     if not FORCE_SUB_CHANNEL:
         return True
+    if not FORCE_SUB_CHANNEL: 
+        return True
+    if not FORCE_SUB_GROUP:
+        return True
     if not FORCE_SUB_GROUP:
         return True
     user_id = update.from_user.id
