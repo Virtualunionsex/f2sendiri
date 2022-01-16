@@ -153,7 +153,7 @@ async def not_joined(client: Client, message: Message):
       ],
     ]
           
-    ]
+    
     try:
         buttons.append(
             [
