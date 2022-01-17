@@ -1,19 +1,11 @@
 # ♻️File-Sharing♻️
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
-Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
-##
-
-### Features
-- Sepenuhnya dapat dicustom.
-- Pesan sambutan & Forcesub yang dapat dicustom.
-- Lebih dari satu Posting dalam Satu Link (batch).
-- Dapat di-deploy di heroku secara langsung.
-<img src="https://telegra.ph/file/9baa45be68b1f6cddc139.jpg">
+<img src="https://telegra.ph/file/b688e58dc41a577ec1616.jpg">
 
 
-### Setup
+### Setup Repo ini join 4 ch ngentod
 
 - Tambahkan bot ke Channel Database dengan semua izin admin
 - Tambahkan bot ke Channel ForceSub tambahkan bot sebagai ADMIN
