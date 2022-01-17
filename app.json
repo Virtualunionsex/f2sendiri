@@ -69,8 +69,8 @@
     "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
       "value": "ZaenSupport",
-    } "required": false
-    
+      "required": false
+   } 
   },
   "addons": [
     {
