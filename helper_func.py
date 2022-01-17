@@ -1,7 +1,7 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
 # Recife By @Mafia_Tobatz
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Kalo clone Gak usah hapus 
+# gue tandain akun tele nya ngentod
 
 import asyncio
 import base64
