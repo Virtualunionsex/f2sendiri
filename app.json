@@ -39,22 +39,18 @@
     },
     "FORCE_SUB_CHANNEL": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
-     
+      "value": "-100"
     },
-    "FORCE_SUB_CHANNEL": {
+    "FORCE_SUB_CHANNEL1": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
       "value": "-100"
-
-      "value": "-100"
-    },
-    "FORCE_SUB_GROUP": {
-      "description": "Masukan ID dari Group Untuk Wajib Subscribenya",
-
     },
     "FORCE_SUB_GROUP": {
       "description": "Masukan ID dari Group Untuk Wajib Subscribenya",
       "value": "-100"
-
+    },
+    "FORCE_SUB_GROUP1": {
+      "description": "Masukan ID dari Group Untuk Wajib Subscribenya",
       "value": "-100"
     },
     "START_MESSAGE": {
