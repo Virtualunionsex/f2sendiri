@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Punya_Alby/fileshare",
+  "repository": "https://github.com/Punya_Alby/",
   "logo": "https://telegra.ph/file/c168ea48b97c702017ead.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -46,10 +46,6 @@
       "value": "-100"
     },
     "FORCE_SUB_GROUP": {
-      "description": "Masukan ID dari Group Untuk Wajib Subscribenya",
-      "value": "-100"
-    },
-    "FORCE_SUB_GROUP1": {
       "description": "Masukan ID dari Group Untuk Wajib Subscribenya",
       "value": "-100"
     },
