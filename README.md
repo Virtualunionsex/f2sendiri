@@ -1,11 +1,8 @@
-# ♻️File-Sharing♻️
+# File-Sharing
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 
-<img src="https://telegra.ph/file/b688e58dc41a577ec1616.jpg">
-
-
-### Setup Repo ini join 4 ch ngentod
+### Repo ini memiliki 3 button
 
 - Tambahkan bot ke Channel Database dengan semua izin admin
 - Tambahkan bot ke Channel ForceSub tambahkan bot sebagai ADMIN
@@ -24,7 +21,7 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/Zaen-ubot/File-Sharing
+git clone https://github.com/PunyaAlby
 cd File-Sharing
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -82,7 +79,7 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/SharingUserbot) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/Lunatic0de) untu info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/ruangdiskusikami) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/ruangprojects) untu info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
@@ -91,5 +88,3 @@ Laporkan Bug, Berikan Permintaan Fitur Di sana..
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
 - Thanks To [CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
 - Our Support Group Members
-
-   **Kalo deploy kasih bintang dulu ngentod**
