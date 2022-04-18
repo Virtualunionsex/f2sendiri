@@ -113,7 +113,7 @@ async def start_command(client: Client, message: Message):
                 pass
     else:
         buttons = [
-            [InlineKeyboardButton("ᴛᴇɴᴛᴀɴɢ sᴀʏᴀ", callback_data="about")],
+            [InlineKeyboardButton("• ᴛᴇɴᴛᴀɴɢ sᴀʏᴀ •", callback_data="about")],
             [
                 InlineKeyboardButton("🌐𝗖𝗛𝗔𝗡𝗡𝗘𝗟🌐", url=client.invitelink),
                 InlineKeyboardButton("🌐𝗚𝗥𝗢𝗨𝗣🌐", url=client.invitelink2),
@@ -122,7 +122,7 @@ async def start_command(client: Client, message: Message):
                 InlineKeyboardButton("🌐𝗖𝗛𝗔𝗡𝗡𝗘𝗟🌐", url=client.invitelink3),
             ],  
             [
-                InlineKeyboardButton("ᴛᴜᴛᴜᴘ", callback_data="close"),
+                InlineKeyboardButton("• ᴛᴜᴛᴜᴘ •", callback_data="close"),
             ],
         ]
         await message.reply_text(
