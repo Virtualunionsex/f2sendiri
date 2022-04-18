@@ -1,8 +1,5 @@
 # (©)Codexbotz
-# Recode By @Mafia_Tobatz
-# Kalo clone Gak usah hapus 
-# gue tandain akun tele nya ngentod
-
+# Recode By @Punya_Alby
 
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
