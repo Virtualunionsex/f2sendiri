@@ -15,11 +15,11 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "TeleUdahRusak"
+      "value": "panggilsaja_m"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": ""
+      "value": "5371397179"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
@@ -27,11 +27,11 @@
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
-      "value": ""
+      "value": "12461222"
     },
     "API_HASH": {
       "description": "Dapatkan API HASH di web my.telegram.org",
-      "value": ""
+      "value": "2236cec12784f604d214d9280cba1e10"
     },
     "CHANNEL_ID": {
       "description": "Masukan ID Channel Untuk [Channel Database]",
@@ -39,7 +39,7 @@
     },
     "FORCE_SUB_CHANNEL": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
-      "value": "-100"
+      "value": "-1001532837687"
     },
     "FORCE_SUB_CHANNEL1": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
@@ -59,12 +59,12 @@
     },
     "CHANNEL":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "",
+      "value": "storychopper",
       "required": false
     },
     "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "ZaenSupport",
+      "value": "",
       "required": false
    } 
   },
