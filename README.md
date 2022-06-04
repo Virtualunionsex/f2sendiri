@@ -2,7 +2,7 @@
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 
-### Repo ini memiliki 3 button
+### Repo ini memiliki 6 button
 
 - Tambahkan bot ke Channel Database dengan semua izin admin
 - Tambahkan bot ke Channel ForceSub tambahkan bot sebagai ADMIN
@@ -79,7 +79,7 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/ruangdiskusikami) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/ruangprojects) untu info Update bot.   
+Bergabunglah di [Channel ](https://www.telegram.dog/storychopper) Untuk Dukungan/Bantuan Dan Join [Private chat](https://www.telegram.dog/panggilsaja_m) untu info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
