@@ -1,5 +1,5 @@
 # (©)Codexbotz
-# Recode by @Punya_Alby
+# Recode by @Panggilsaja_m
 
 
 import pyromod.listen
