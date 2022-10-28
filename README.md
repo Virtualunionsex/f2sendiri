@@ -11,7 +11,7 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 ##
 ### Installation
 #### Deploy on Heroku
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Virtualunionsex/salahku"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Virtualunionsex/Malik5"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
@@ -21,8 +21,8 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/PunyaAlby
-cd File-Sharing
+git clone https://github.com/virtualunionsex/Malik5
+cd Malik5
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
@@ -79,7 +79,7 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [Channel ](https://www.telegram.dog/storychopper) Untuk Dukungan/Bantuan Dan Join [Private chat](https://www.telegram.dog/panggilsaja_m) untu info Update bot.   
+Bergabunglah di [Channel ](https://www.telegram.dog/simpulyangrapuh) Untuk Dukungan/Bantuan Dan Join [Private chat](https://www.telegram.dog/pang) untu info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
