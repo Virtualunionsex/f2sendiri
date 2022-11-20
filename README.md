@@ -1,4 +1,4 @@
-# File-Sharing
+Ko# File-Sharing
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 
@@ -22,7 +22,6 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 #### Deploy in your VPS
 ````bash
 git clone https://github.com/virtualunionsex/Malik5
-cd Malik5
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
